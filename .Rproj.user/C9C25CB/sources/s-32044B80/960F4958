@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528305363221.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "960F4958",
+    "lastKnownWriteTime" : 1528300278,
+    "last_content_update" : 1528300278,
+    "path" : "~/sites/blogdown-demo/blogdown-demo/content/post/2016-12-30-hello-markdown.md",
+    "project_path" : "content/post/2016-12-30-hello-markdown.md",
+    "properties" : {
+        "cursorPosition" : "11,0",
+        "scrollLine" : "1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

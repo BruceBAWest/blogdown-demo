@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4279641884",
+    "hash" : "0",
     "id" : "D4B1FF52",
-    "lastKnownWriteTime" : 1528300278,
-    "last_content_update" : 1528300278,
+    "lastKnownWriteTime" : 1528304899,
+    "last_content_update" : 1528304899172,
     "path" : "~/sites/blogdown-demo/blogdown-demo/content/post/2015-07-23-r-rmarkdown.Rmd",
     "project_path" : "content/post/2015-07-23-r-rmarkdown.Rmd",
     "properties" : {
+        "cursorPosition" : "12,12",
+        "scrollLine" : "4"
     },
     "relative_order" : 2,
     "source_on_save" : false,

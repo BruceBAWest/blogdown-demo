@@ -6,10 +6,22 @@
     <description>Recent content on Bruce&#39;s Blogdown Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My first test post</title>
+      <link>/2018/06/06/my-first-test-post/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/06/06/my-first-test-post/</guid>
+      <description>What is this? Why, this is a sample post.
+In fact, this is my first attempt at using R Markdown.
+ Getting Started Filling in filler words, and then I’m going to go back later and make adjustments with markdown syntax to add style, such as headings, bold text, italics, etc.
+ Onward I’m excited to get started using R markdown with RStudio. I love open-source, and I want to build a site using open-source to post a blog about open-sourced research I’m doing, and I want to use RStudio’s Bookdown software to create an ebook out of my research rather than using the stypical Jupyter notebooks for this research.</description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>

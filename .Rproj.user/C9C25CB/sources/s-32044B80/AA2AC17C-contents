@@ -1,0 +1,38 @@
+---
+title: My first test post
+author: Bruce B. A. West
+date: '2018-06-06'
+slug: my-first-test-post
+categories:
+  - R
+tags:
+  - R Markdown
+---
+
+# What is this? 
+Why, this is a sample post. 
+
+In fact, this is my first attempt at using R Markdown. 
+
+# Getting Started
+
+Filling in filler words, and then I'm going to go back later and make adjustments with markdown syntax to add style, such as headings, **bold text**, *italics, etc*.
+
+# Onward
+
+I'm excited to get started using R markdown with RStudio. I love open-source, and I want to build a site using open-source to post a blog about open-sourced research I'm doing, and I want to use RStudio's Bookdown software to create an ebook out of my research rather than using the stypical Jupyter notebooks for this research. Instead the site will be an open book... pun intended. 
+
+In the past I would've created a site with node.js or php and complicated things way too much. Now I can use the RStudios IDE on my computer to manage everything, and even push updates to git and github immediately after creating new content.
+
+# Strategy
+
+I'm making this demo site here on my computer as I type. 
+I'm watching live updates to the contect in the viewer every time I hit `⌘-S`. Awesome! 
+When I'm ready to publish, I make a last save, then click the "Terminal" tab and make my git commit.
+Then to push it to the live site I merely type `git push origin master` and it's live! 
+How? By hosting the site from the github repository using github pages. If course, I'm not actually doing that for this demo blog, but that's what I'd do for the site I'm making after this demo. 
+
+
+# Next Steps
+
+Now that I have this much down I need to determine how to host a Bookdown book within a blogdown site. This way I can seperate my blog about the research, and my bookdown "book"/notebook of the actual research. 
