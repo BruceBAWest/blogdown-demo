@@ -31,3 +31,370 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ]0;~/sites/blogdown-demo/blogdown-demo[38;5;203mbrucebawest[38;05;38m (master #)[0;34m blogdown-demo
 $ [0mgit c[Kadd -[K.
+]0;~/sites/blogdown-demo/blogdown-demo[38;5;203mbrucebawest[38;05;38m (master *+)[0;34m blogdown-demo
+$ [0mgit status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	[32mnew file:   .Rproj.user/C9C25CB/console06/A0E6C569[m
+	[32mnew file:   .Rproj.user/C9C25CB/console06/INDEX001[m
+	[32mnew file:   .Rproj.user/C9C25CB/sources/prop/A04342[m
+	[32mnew file:   .Rproj.user/C9C25CB/sources/prop/INDEX[m
+	[32mnew file:   .Rproj.user/C9C25CB/sources/s-32044B80/B1C37BC0[m
+	[32mnew file:   .Rproj.user/C9C25CB/sources/s-32044B80/B1C37BC0-contents[m
+	[32mnew file:   .Rproj.user/C9C25CB/sources/s-32044B80/D4B1FF52[m
+	[32mnew file:   .Rproj.user/C9C25CB/sources/s-32044B80/D4B1FF52-contents[m
+	[32mnew file:   .Rproj.user/C9C25CB/sources/s-32044B80/lock_file[m
+	[32mnew file:   .Rproj.user/shared/notebooks/patch-chunk-names[m
+	[32mnew file:   .Rproj.user/shared/notebooks/paths[m
+	[32mnew file:   blogdown-demo.Rproj[m
+	[32mnew file:   config.toml[m
+	[32mnew file:   content/about.md[m
+	[32mnew file:   content/post/2015-01-01-lorem-ipsum.md[m
+	[32mnew file:   content/post/2015-07-23-r-rmarkdown.Rmd[m
+	[32mnew file:   content/post/2015-07-23-r-rmarkdown.html[m
+	[32mnew file:   content/post/2016-12-30-hello-markdown.md[m
+	[32mnew file:   index.Rmd[m
+	[32mnew file:   public/.gitkeep[m
+	[32mnew file:   public/2015/01/01/lorem-ipsum/index.html[m
+	[32mnew file:   public/2015/07/23/hello-r-markdown/index.html[m
+	[32mnew file:   public/2016/12/30/a-plain-markdown-post/index.html[m
+	[32mnew file:   public/about/index.html[m
+	[32mnew file:   public/categories/index.html[m
+	[32mnew file:   public/categories/index.xml[m
+	[32mnew file:   public/categories/r/index.html[m
+	[32mnew file:   public/categories/r/index.xml[m
+	[32mnew file:   public/css/fonts.css[m
+	[32mnew file:   public/css/main.css[m
+	[32mnew file:   public/fonts/lato-v11-latin-regular.woff[m
+	[32mnew file:   public/fonts/lato-v11-latin-regular.woff2[m
+	[32mnew file:   public/fonts/merriweather-v13-latin-regular.woff[m
+	[32mnew file:   public/fonts/merriweather-v13-latin-regular.woff2[m
+	[32mnew file:   public/images/hugo-logo.png[m
+	[32mnew file:   public/images/logo.png[m
+	[32mnew file:   public/index.html[m
+	[32mnew file:   public/index.xml[m
+	[32mnew file:   public/js/math-code.js[m
+	[32mnew file:   public/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png[m
+	[32mnew file:   public/post/index.html[m
+	[32mnew file:   public/post/index.xml[m
+	[32mnew file:   public/sitemap.xml[m
+	[32mnew file:   public/tags/index.html[m
+	[32mnew file:   public/tags/index.xml[m
+	[32mnew file:   public/tags/plot/index.html[m
+	[32mnew file:   public/tags/plot/index.xml[m
+	[32mnew file:   public/tags/r-markdown/index.html[m
+	[32mnew file:   public/tags/r-markdown/index.xml[m
+	[32mnew file:   public/tags/regression/index.html[m
+	[32mnew file:   public/tags/regression/index.xml[m
+	[32mnew file:   static/.gitkeep[m
+	[32mnew file:   static/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png[m
+	[32mnew file:   themes/hugo-lithium/.gitignore[m
+	[32mnew file:   themes/hugo-lithium/LICENSE.md[m
+	[32mnew file:   themes/hugo-lithium/README.md[m
+	[32mnew file:   themes/hugo-lithium/archetypes/default.md[m
+	[32mnew file:   themes/hugo-lithium/exampleSite/config.toml[m
+	[32mnew file:   themes/hugo-lithium/exampleSite/content/about.md[m
+	[32mnew file:   themes/hugo-lithium/exampleSite/content/post/2015-01-01-lorem-ipsum.md[m
+	[32mnew file:   themes/hugo-lithium/exampleSite/content/post/2016-12-30-hello-markdown.md[m
+	[32mnew file:   themes/hugo-lithium/exampleSite/static/.gitkeep[m
+	[32mnew file:   themes/hugo-lithium/hugo-lithium.Rproj[m
+	[32mnew file:   themes/hugo-lithium/layouts/_default/list.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/_default/single.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/disqus.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/footer.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/footer_highlightjs.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/footer_mathjax.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/head.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/head_custom.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/head_highlightjs.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/header.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/nav.html[m
+	[32mnew file:   themes/hugo-lithium/static/css/fonts.css[m
+	[32mnew file:   themes/hugo-lithium/static/css/main.css[m
+	[32mnew file:   themes/hugo-lithium/static/fonts/lato-v11-latin-regular.woff[m
+	[32mnew file:   themes/hugo-lithium/static/fonts/lato-v11-latin-regular.woff2[m
+	[32mnew file:   themes/hugo-lithium/static/fonts/merriweather-v13-latin-regular.woff[m
+	[32mnew file:   themes/hugo-lithium/static/fonts/merriweather-v13-latin-regular.woff2[m
+	[32mnew file:   themes/hugo-lithium/static/images/hugo-logo.png[m
+	[32mnew file:   themes/hugo-lithium/static/images/logo.png[m
+	[32mnew file:   themes/hugo-lithium/static/js/math-code.js[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/C9C25CB/console06/A0E6C569[m
+
+]0;~/sites/blogdown-demo/blogdown-demo[38;5;203mbrucebawest[38;05;38m (master *+)[0;34m blogdown-demo
+$ [0mgit add-A
+git: 'add-A' is not a git command. See 'git --help'.
+]0;~/sites/blogdown-demo/blogdown-demo[38;5;203mbrucebawest[38;05;38m (master *+)[0;34m blogdown-demo
+$ [0mgit status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	[32mnew file:   .Rproj.user/C9C25CB/console06/A0E6C569[m
+	[32mnew file:   .Rproj.user/C9C25CB/console06/INDEX001[m
+	[32mnew file:   .Rproj.user/C9C25CB/sources/prop/A04342[m
+	[32mnew file:   .Rproj.user/C9C25CB/sources/prop/INDEX[m
+	[32mnew file:   .Rproj.user/C9C25CB/sources/s-32044B80/B1C37BC0[m
+	[32mnew file:   .Rproj.user/C9C25CB/sources/s-32044B80/B1C37BC0-contents[m
+	[32mnew file:   .Rproj.user/C9C25CB/sources/s-32044B80/D4B1FF52[m
+	[32mnew file:   .Rproj.user/C9C25CB/sources/s-32044B80/D4B1FF52-contents[m
+	[32mnew file:   .Rproj.user/C9C25CB/sources/s-32044B80/lock_file[m
+	[32mnew file:   .Rproj.user/shared/notebooks/patch-chunk-names[m
+	[32mnew file:   .Rproj.user/shared/notebooks/paths[m
+	[32mnew file:   blogdown-demo.Rproj[m
+	[32mnew file:   config.toml[m
+	[32mnew file:   content/about.md[m
+	[32mnew file:   content/post/2015-01-01-lorem-ipsum.md[m
+	[32mnew file:   content/post/2015-07-23-r-rmarkdown.Rmd[m
+	[32mnew file:   content/post/2015-07-23-r-rmarkdown.html[m
+	[32mnew file:   content/post/2016-12-30-hello-markdown.md[m
+	[32mnew file:   index.Rmd[m
+	[32mnew file:   public/.gitkeep[m
+	[32mnew file:   public/2015/01/01/lorem-ipsum/index.html[m
+	[32mnew file:   public/2015/07/23/hello-r-markdown/index.html[m
+	[32mnew file:   public/2016/12/30/a-plain-markdown-post/index.html[m
+	[32mnew file:   public/about/index.html[m
+	[32mnew file:   public/categories/index.html[m
+	[32mnew file:   public/categories/index.xml[m
+	[32mnew file:   public/categories/r/index.html[m
+	[32mnew file:   public/categories/r/index.xml[m
+	[32mnew file:   public/css/fonts.css[m
+	[32mnew file:   public/css/main.css[m
+	[32mnew file:   public/fonts/lato-v11-latin-regular.woff[m
+	[32mnew file:   public/fonts/lato-v11-latin-regular.woff2[m
+	[32mnew file:   public/fonts/merriweather-v13-latin-regular.woff[m
+	[32mnew file:   public/fonts/merriweather-v13-latin-regular.woff2[m
+	[32mnew file:   public/images/hugo-logo.png[m
+	[32mnew file:   public/images/logo.png[m
+	[32mnew file:   public/index.html[m
+	[32mnew file:   public/index.xml[m
+	[32mnew file:   public/js/math-code.js[m
+	[32mnew file:   public/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png[m
+	[32mnew file:   public/post/index.html[m
+	[32mnew file:   public/post/index.xml[m
+	[32mnew file:   public/sitemap.xml[m
+	[32mnew file:   public/tags/index.html[m
+	[32mnew file:   public/tags/index.xml[m
+	[32mnew file:   public/tags/plot/index.html[m
+	[32mnew file:   public/tags/plot/index.xml[m
+	[32mnew file:   public/tags/r-markdown/index.html[m
+	[32mnew file:   public/tags/r-markdown/index.xml[m
+	[32mnew file:   public/tags/regression/index.html[m
+	[32mnew file:   public/tags/regression/index.xml[m
+	[32mnew file:   static/.gitkeep[m
+	[32mnew file:   static/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png[m
+	[32mnew file:   themes/hugo-lithium/.gitignore[m
+	[32mnew file:   themes/hugo-lithium/LICENSE.md[m
+	[32mnew file:   themes/hugo-lithium/README.md[m
+	[32mnew file:   themes/hugo-lithium/archetypes/default.md[m
+	[32mnew file:   themes/hugo-lithium/exampleSite/config.toml[m
+	[32mnew file:   themes/hugo-lithium/exampleSite/content/about.md[m
+	[32mnew file:   themes/hugo-lithium/exampleSite/content/post/2015-01-01-lorem-ipsum.md[m
+	[32mnew file:   themes/hugo-lithium/exampleSite/content/post/2016-12-30-hello-markdown.md[m
+	[32mnew file:   themes/hugo-lithium/exampleSite/static/.gitkeep[m
+	[32mnew file:   themes/hugo-lithium/hugo-lithium.Rproj[m
+	[32mnew file:   themes/hugo-lithium/layouts/_default/list.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/_default/single.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/disqus.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/footer.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/footer_highlightjs.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/footer_mathjax.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/head.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/head_custom.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/head_highlightjs.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/header.html[m
+	[32mnew file:   themes/hugo-lithium/layouts/partials/nav.html[m
+	[32mnew file:   themes/hugo-lithium/static/css/fonts.css[m
+	[32mnew file:   themes/hugo-lithium/static/css/main.css[m
+	[32mnew file:   themes/hugo-lithium/static/fonts/lato-v11-latin-regular.woff[m
+	[32mnew file:   themes/hugo-lithium/static/fonts/lato-v11-latin-regular.woff2[m
+	[32mnew file:   themes/hugo-lithium/static/fonts/merriweather-v13-latin-regular.woff[m
+	[32mnew file:   themes/hugo-lithium/static/fonts/merriweather-v13-latin-regular.woff2[m
+	[32mnew file:   themes/hugo-lithium/static/images/hugo-logo.png[m
+	[32mnew file:   themes/hugo-lithium/static/images/logo.png[m
+	[32mnew file:   themes/hugo-lithium/static/js/math-code.js[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/C9C25CB/console06/A0E6C569[m
+
+]0;~/sites/blogdown-demo/blogdown-demo[38;5;203mbrucebawest[38;05;38m (master *+)[0;34m blogdown-demo
+$ [0mgit commit -m "initial commit "[K[K" 
+[master (root-commit) 10e11de] initial commit
+ 83 files changed, 2984 insertions(+)
+ create mode 100644 .Rproj.user/C9C25CB/console06/A0E6C569
+ create mode 100644 .Rproj.user/C9C25CB/console06/INDEX001
+ create mode 100644 .Rproj.user/C9C25CB/sources/prop/A04342
+ create mode 100644 .Rproj.user/C9C25CB/sources/prop/INDEX
+ create mode 100644 .Rproj.user/C9C25CB/sources/s-32044B80/B1C37BC0
+ create mode 100644 .Rproj.user/C9C25CB/sources/s-32044B80/B1C37BC0-contents
+ create mode 100644 .Rproj.user/C9C25CB/sources/s-32044B80/D4B1FF52
+ create mode 100644 .Rproj.user/C9C25CB/sources/s-32044B80/D4B1FF52-contents
+ create mode 100644 .Rproj.user/C9C25CB/sources/s-32044B80/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 blogdown-demo.Rproj
+ create mode 100644 config.toml
+ create mode 100644 content/about.md
+ create mode 100644 content/post/2015-01-01-lorem-ipsum.md
+ create mode 100644 content/post/2015-07-23-r-rmarkdown.Rmd
+ create mode 100644 content/post/2015-07-23-r-rmarkdown.html
+ create mode 100644 content/post/2016-12-30-hello-markdown.md
+ create mode 100644 index.Rmd
+ create mode 100644 public/.gitkeep
+ create mode 100644 public/2015/01/01/lorem-ipsum/index.html
+ create mode 100644 public/2015/07/23/hello-r-markdown/index.html
+ create mode 100644 public/2016/12/30/a-plain-markdown-post/index.html
+ create mode 100644 public/about/index.html
+ create mode 100644 public/categories/index.html
+ create mode 100644 public/categories/index.xml
+ create mode 100644 public/categories/r/index.html
+ create mode 100644 public/categories/r/index.xml
+ create mode 100644 public/css/fonts.css
+ create mode 100644 public/css/main.css
+ create mode 100644 public/fonts/lato-v11-latin-regular.woff
+ create mode 100644 public/fonts/lato-v11-latin-regular.woff2
+ create mode 100644 public/fonts/merriweather-v13-latin-regular.woff
+ create mode 100644 public/fonts/merriweather-v13-latin-regular.woff2
+ create mode 100644 public/images/hugo-logo.png
+ create mode 100644 public/images/logo.png
+ create mode 100644 public/index.html
+ create mode 100644 public/index.xml
+ create mode 100644 public/js/math-code.js
+ create mode 100644 public/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 public/post/index.html
+ create mode 100644 public/post/index.xml
+ create mode 100644 public/sitemap.xml
+ create mode 100644 public/tags/index.html
+ create mode 100644 public/tags/index.xml
+ create mode 100644 public/tags/plot/index.html
+ create mode 100644 public/tags/plot/index.xml
+ create mode 100644 public/tags/r-markdown/index.html
+ create mode 100644 public/tags/r-markdown/index.xml
+ create mode 100644 public/tags/regression/index.html
+ create mode 100644 public/tags/regression/index.xml
+ create mode 100644 static/.gitkeep
+ create mode 100644 static/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 themes/hugo-lithium/.gitignore
+ create mode 100644 themes/hugo-lithium/LICENSE.md
+ create mode 100644 themes/hugo-lithium/README.md
+ create mode 100644 themes/hugo-lithium/archetypes/default.md
+ create mode 100644 themes/hugo-lithium/exampleSite/config.toml
+ create mode 100644 themes/hugo-lithium/exampleSite/content/about.md
+ create mode 100644 themes/hugo-lithium/exampleSite/content/post/2015-01-01-lorem-ipsum.md
+ create mode 100644 themes/hugo-lithium/exampleSite/content/post/2016-12-30-hello-markdown.md
+ create mode 100644 themes/hugo-lithium/exampleSite/static/.gitkeep
+ create mode 100644 themes/hugo-lithium/hugo-lithium.Rproj
+ create mode 100644 themes/hugo-lithium/layouts/_default/list.html
+ create mode 100644 themes/hugo-lithium/layouts/_default/single.html
+ create mode 100644 themes/hugo-lithium/layouts/partials/disqus.html
+ create mode 100644 themes/hugo-lithium/layouts/partials/footer.html
+ create mode 100644 themes/hugo-lithium/layouts/partials/footer_highlightjs.html
+ create mode 100644 themes/hugo-lithium/layouts/partials/footer_mathjax.html
+ create mode 100644 themes/hugo-lithium/layouts/partials/head.html
+ create mode 100644 themes/hugo-lithium/layouts/partials/head_custom.html
+ create mode 100644 themes/hugo-lithium/layouts/partials/head_highlightjs.html
+ create mode 100644 themes/hugo-lithium/layouts/partials/header.html
+ create mode 100644 themes/hugo-lithium/layouts/partials/nav.html
+ create mode 100644 themes/hugo-lithium/static/css/fonts.css
+ create mode 100644 themes/hugo-lithium/static/css/main.css
+ create mode 100644 themes/hugo-lithium/static/fonts/lato-v11-latin-regular.woff
+ create mode 100644 themes/hugo-lithium/static/fonts/lato-v11-latin-regular.woff2
+ create mode 100644 themes/hugo-lithium/static/fonts/merriweather-v13-latin-regular.woff
+ create mode 100644 themes/hugo-lithium/static/fonts/merriweather-v13-latin-regular.woff2
+ create mode 100644 themes/hugo-lithium/static/images/hugo-logo.png
+ create mode 100644 themes/hugo-lithium/static/images/logo.png
+ create mode 100644 themes/hugo-lithium/static/js/math-code.js
+]0;~/sites/blogdown-demo/blogdown-demo[38;5;203mbrucebawest[38;05;38m (master *)[0;34m blogdown-demo
+$ [0mgit status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/C9C25CB/console06/A0E6C569[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/sites/blogdown-demo/blogdown-demo[38;5;203mbrucebawest[38;05;38m (master *)[0;34m blogdown-demo
+$ [0mgit remote add origin git@github.com:BruceBAWest/blogdown-demo.git
+]0;~/sites/blogdown-demo/blogdown-demo[38;5;203mbrucebawest[38;05;38m (master *)[0;34m blogdown-demo
+$ [0mgit push -u origin master
+Enter passphrase for key '/Users/brucebawest/.ssh/id_rsa': 
+Counting objects: 113, done.
+Delta compression using up to 8 threads.
+Compressing objects:   1% (1/90)   Compressing objects:   2% (2/90)   Compressing objects:   3% (3/90)   Compressing objects:   4% (4/90)   Compressing objects:   5% (5/90)   Compressing objects:   6% (6/90)   Compressing objects:   7% (7/90)   Compressing objects:   8% (8/90)   Compressing objects:  10% (9/90)   Compressing objects:  11% (10/90)   Compressing objects:  12% (11/90)   Compressing objects:  13% (12/90)   Compressing objects:  14% (13/90)   Compressing objects:  15% (14/90)   Compressing objects:  16% (15/90)   Compressing objects:  17% (16/90)   Compressing objects:  18% (17/90)   Compressing objects:  20% (18/90)   Compressing objects:  21% (19/90)   Compressing objects:  22% (20/90)   Compressing objects:  23% (21/90)   Compressing objects:  24% (22/90)   Compressing objects:  25% (23/90)   Compressing objects:  26% (24/90)   Compressing objects:  27% (25/90)   Compressing objects:  28% (26/90)   Compressing objects:  30% (27/90)   Compressing objects:  31% (28/90)   Compressing objects:  32% (29/90)   Compressing objects:  33% (30/90)   Compressing objects:  34% (31/90)   Compressing objects:  35% (32/90)   Compressing objects:  36% (33/90)   Compressing objects:  37% (34/90)   Compressing objects:  38% (35/90)   Compressing objects:  40% (36/90)   Compressing objects:  41% (37/90)   Compressing objects:  42% (38/90)   Compressing objects:  43% (39/90)   Compressing objects:  44% (40/90)   Compressing objects:  45% (41/90)   Compressing objects:  46% (42/90)   Compressing objects:  47% (43/90)   Compressing objects:  48% (44/90)   Compressing objects:  50% (45/90)   Compressing objects:  51% (46/90)   Compressing objects:  52% (47/90)   Compressing objects:  53% (48/90)   Compressing objects:  54% (49/90)   Compressing objects:  55% (50/90)   Compressing objects:  56% (51/90)   Compressing objects:  57% (52/90)   Compressing objects:  58% (53/90)   Compressing objects:  60% (54/90)   Compressing objects:  61% (55/90)   Compressing objects:  62% (56/90)   Compressing objects:  63% (57/90)   Compressing objects:  64% (58/90)   Compressing objects:  65% (59/90)   Compressing objects:  66% (60/90)   Compressing objects:  67% (61/90)   Compressing objects:  68% (62/90)   Compressing objects:  70% (63/90)   Compressing objects:  71% (64/90)   Compressing objects:  72% (65/90)   Compressing objects:  73% (66/90)   Compressing objects:  74% (67/90)   Compressing objects:  75% (68/90)   Compressing objects:  76% (69/90)   Compressing objects:  77% (70/90)   Compressing objects:  78% (71/90)   Compressing objects:  80% (72/90)   Compressing objects:  81% (73/90)   Compressing objects:  82% (74/90)   Compressing objects:  83% (75/90)   Compressing objects:  84% (76/90)   Compressing objects:  85% (77/90)   Compressing objects:  86% (78/90)   Compressing objects:  87% (79/90)   Compressing objects:  88% (80/90)   Compressing objects:  90% (81/90)   Compressing objects:  91% (82/90)   Compressing objects:  92% (83/90)   Compressing objects:  93% (84/90)   Compressing objects:  94% (85/90)   Compressing objects:  95% (86/90)   Compressing objects:  96% (87/90)   Compressing objects:  97% (88/90)   Compressing objects:  98% (89/90)   Compressing objects: 100% (90/90)   Compressing objects: 100% (90/90), done.
+Writing objects:   0% (1/113)   Writing objects:   1% (2/113)   Writing objects:   2% (3/113)   Writing objects:   3% (4/113)   Writing objects:   4% (5/113)   Writing objects:   5% (6/113)   Writing objects:   6% (7/113)   Writing objects:   7% (8/113)   Writing objects:   8% (10/113)   Writing objects:   9% (11/113)   Writing objects:  10% (12/113)   Writing objects:  11% (13/113)   Writing objects:  12% (14/113)   Writing objects:  13% (15/113)   Writing objects:  14% (16/113)   Writing objects:  15% (17/113)   Writing objects:  16% (19/113)   Writing objects:  18% (21/113)   Writing objects:  19% (22/113)   Writing objects:  20% (23/113)   Writing objects:  21% (24/113)   Writing objects:  22% (25/113)   Writing objects:  23% (26/113)   Writing objects:  24% (28/113)   Writing objects:  25% (29/113)   Writing objects:  26% (30/113)   Writing objects:  27% (31/113)   Writing objects:  28% (32/113)   Writing objects:  29% (33/113)   Writing objects:  30% (34/113)   Writing objects:  31% (36/113)   Writing objects:  32% (37/113)   Writing objects:  33% (38/113)   Writing objects:  34% (39/113)   Writing objects:  35% (40/113)   Writing objects:  36% (41/113)   Writing objects:  37% (42/113)   Writing objects:  38% (43/113)   Writing objects:  39% (45/113)   Writing objects:  40% (46/113)   Writing objects:  41% (47/113)   Writing objects:  44% (50/113)   Writing objects:  46% (52/113)   Writing objects:  47% (54/113)   Writing objects:  49% (56/113)   Writing objects:  50% (57/113)   Writing objects:  51% (58/113)   Writing objects:  52% (59/113)   Writing objects:  53% (60/113)   Writing objects:  54% (62/113)   Writing objects:  55% (63/113)   Writing objects:  56% (64/113)   Writing objects:  57% (65/113)   Writing objects:  58% (66/113)   Writing objects:  59% (67/113)   Writing objects:  60% (68/113)   Writing objects:  61% (69/113)   Writing objects:  62% (71/113)   Writing objects:  63% (72/113)   Writing objects:  64% (73/113)   Writing objects:  65% (74/113)   Writing objects:  66% (75/113)   Writing objects:  67% (76/113)   Writing objects:  68% (77/113)   Writing objects:  69% (78/113)   Writing objects:  70% (80/113)   Writing objects:  71% (81/113)   Writing objects:  72% (82/113)   Writing objects:  73% (83/113)   Writing objects:  74% (84/113)   Writing objects:  75% (85/113)   Writing objects:  76% (86/113)   Writing objects:  77% (88/113)   Writing objects:  78% (89/113)   Writing objects:  79% (90/113)   Writing objects:  80% (91/113)   Writing objects:  81% (92/113)   Writing objects:  82% (93/113)   Writing objects:  83% (94/113)   Writing objects:  84% (95/113)   Writing objects:  85% (97/113)   Writing objects:  86% (98/113)   Writing objects:  87% (99/113)   Writing objects:  88% (100/113)   Writing objects:  89% (101/113)   Writing objects:  90% (102/113)   Writing objects:  91% (103/113)   Writing objects:  92% (104/113)   Writing objects:  93% (106/113)   Writing objects:  94% (107/113)   Writing objects:  95% (108/113)   Writing objects:  96% (109/113)   Writing objects:  97% (110/113)   Writing objects:  98% (111/113)   Writing objects:  99% (112/113)   Writing objects: 100% (113/113)   Writing objects: 100% (113/113), 176.94 KiB | 854.00 KiB/s, done.
+Total 113 (delta 18), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/18)   [Kremote: Resolving deltas:   5% (1/18)   [Kremote: Resolving deltas:  61% (11/18)   [Kremote: Resolving deltas: 100% (18/18)   [Kremote: Resolving deltas: 100% (18/18), done.[K
+To github.com:BruceBAWest/blogdown-demo.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+]0;~/sites/blogdown-demo/blogdown-demo[38;5;203mbrucebawest[38;05;38m (master *)[0;34m blogdown-demo
+$ [0mgit status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/C9C25CB/console06/A0E6C569[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/sites/blogdown-demo/blogdown-demo[38;5;203mbrucebawest[38;05;38m (master *)[0;34m blogdown-demo
+$ [0mgit status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/C9C25CB/console06/A0E6C569[m
+	[31mmodified:   .Rproj.user/C9C25CB/sources/prop/INDEX[m
+	[31mmodified:   config.toml[m
+	[31mmodified:   public/2015/01/01/lorem-ipsum/index.html[m
+	[31mmodified:   public/2015/07/23/hello-r-markdown/index.html[m
+	[31mmodified:   public/2016/12/30/a-plain-markdown-post/index.html[m
+	[31mmodified:   public/about/index.html[m
+	[31mmodified:   public/categories/index.html[m
+	[31mmodified:   public/categories/index.xml[m
+	[31mmodified:   public/categories/r/index.html[m
+	[31mmodified:   public/categories/r/index.xml[m
+	[31mmodified:   public/index.html[m
+	[31mmodified:   public/index.xml[m
+	[31mmodified:   public/post/index.html[m
+	[31mmodified:   public/post/index.xml[m
+	[31mmodified:   public/tags/index.html[m
+	[31mmodified:   public/tags/index.xml[m
+	[31mmodified:   public/tags/plot/index.html[m
+	[31mmodified:   public/tags/plot/index.xml[m
+	[31mmodified:   public/tags/r-markdown/index.html[m
+	[31mmodified:   public/tags/r-markdown/index.xml[m
+	[31mmodified:   public/tags/regression/index.html[m
+	[31mmodified:   public/tags/regression/index.xml[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rproj.user/C9C25CB/sources/prop/AA32310C[m
+	[31m.Rproj.user/C9C25CB/sources/s-32044B80/8D8774FD[m
+	[31m.Rproj.user/C9C25CB/sources/s-32044B80/8D8774FD-contents[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/sites/blogdown-demo/blogdown-demo[38;5;203mbrucebawest[38;05;38m (master *)[0;34m blogdown-demo
+$ [0mgit add .
