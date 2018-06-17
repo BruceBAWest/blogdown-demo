@@ -497,3 +497,81 @@ Untracked files:
 no changes added to commit (use "git add" and/or "git commit -a")
 ]0;~/sites/blogdown-demo/blogdown-demo[38;5;203mbrucebawest[38;05;38m (master *)[0;34m blogdown-demo
 $ [0mgit add -![KA
+]0;~/sites/blogdown-demo/blogdown-demo[38;5;203mbrucebawest[38;05;38m (master *+)[0;34m blogdown-demo
+$ [0mgit c[Kcommit -m "made first blogpost"
+[master 1cb90fc] made first blogpost
+ 49 files changed, 640 insertions(+), 78 deletions(-)
+ create mode 100644 .Rproj.user/C9C25CB/sources/prop/15F2F547
+ create mode 100644 .Rproj.user/C9C25CB/sources/prop/2692BBCA
+ create mode 100644 .Rproj.user/C9C25CB/sources/prop/7C52FD8E
+ create mode 100644 .Rproj.user/C9C25CB/sources/prop/9A113DA2
+ create mode 100644 .Rproj.user/C9C25CB/sources/prop/B0D5A8D8
+ create mode 100644 .Rproj.user/C9C25CB/sources/prop/C69D5F4A
+ create mode 100644 .Rproj.user/C9C25CB/sources/s-32044B80/16E7A708-contents
+ create mode 100644 .Rproj.user/C9C25CB/sources/s-32044B80/2BCF6EC2-contents
+ create mode 100644 .Rproj.user/C9C25CB/sources/s-32044B80/47F605B6-contents
+ create mode 100644 .Rproj.user/C9C25CB/sources/s-32044B80/6054142C-contents
+ delete mode 100644 .Rproj.user/C9C25CB/sources/s-32044B80/8D8774FD
+ create mode 100644 .Rproj.user/C9C25CB/sources/s-32044B80/960F4958
+ create mode 100644 .Rproj.user/C9C25CB/sources/s-32044B80/960F4958-contents
+ create mode 100644 .Rproj.user/C9C25CB/sources/s-32044B80/AA2AC17C
+ create mode 100644 .Rproj.user/C9C25CB/sources/s-32044B80/AA2AC17C-contents
+ delete mode 100644 .Rproj.user/C9C25CB/sources/s-32044B80/B1C37BC0
+ create mode 100644 .Rproj.user/shared/notebooks/2088D4E-2015-07-23-r-rmarkdown/1/C9C25CB32044B80/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/2088D4E-2015-07-23-r-rmarkdown/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/2DC56BE4-2018-06-06-my-first-test-post/1/C9C25CB32044B80/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/2DC56BE4-2018-06-06-my-first-test-post/1/s/chunks.json
+ create mode 100644 content/post/2018-06-06-my-first-test-post.Rmd
+ create mode 100644 content/post/2018-06-06-my-first-test-post.html
+ create mode 100644 public/2018/06/06/my-first-test-post/index.html
+]0;~/sites/blogdown-demo/blogdown-demo[38;5;203mbrucebawest[38;05;38m (master *)[0;34m blogdown-demo
+$ [0mgit push origin master
+Enter passphrase for key '/Users/brucebawest/.ssh/id_rsa': 
+Counting objects: 79, done.
+Delta compression using up to 8 threads.
+Compressing objects:   1% (1/59)   Compressing objects:   3% (2/59)   Compressing objects:   5% (3/59)   Compressing objects:   6% (4/59)   Compressing objects:   8% (5/59)   Compressing objects:  10% (6/59)   Compressing objects:  11% (7/59)   Compressing objects:  13% (8/59)   Compressing objects:  15% (9/59)   Compressing objects:  16% (10/59)   Compressing objects:  18% (11/59)   Compressing objects:  20% (12/59)   Compressing objects:  22% (13/59)   Compressing objects:  23% (14/59)   Compressing objects:  25% (15/59)   Compressing objects:  27% (16/59)   Compressing objects:  28% (17/59)   Compressing objects:  30% (18/59)   Compressing objects:  32% (19/59)   Compressing objects:  33% (20/59)   Compressing objects:  35% (21/59)   Compressing objects:  37% (22/59)   Compressing objects:  38% (23/59)   Compressing objects:  40% (24/59)   Compressing objects:  42% (25/59)   Compressing objects:  44% (26/59)   Compressing objects:  45% (27/59)   Compressing objects:  47% (28/59)   Compressing objects:  49% (29/59)   Compressing objects:  50% (30/59)   Compressing objects:  52% (31/59)   Compressing objects:  54% (32/59)   Compressing objects:  55% (33/59)   Compressing objects:  57% (34/59)   Compressing objects:  59% (35/59)   Compressing objects:  61% (36/59)   Compressing objects:  62% (37/59)   Compressing objects:  64% (38/59)   Compressing objects:  66% (39/59)   Compressing objects:  67% (40/59)   Compressing objects:  69% (41/59)   Compressing objects:  71% (42/59)   Compressing objects:  72% (43/59)   Compressing objects:  74% (44/59)   Compressing objects:  76% (45/59)   Compressing objects:  77% (46/59)   Compressing objects:  79% (47/59)   Compressing objects:  81% (48/59)   Compressing objects:  83% (49/59)   Compressing objects:  84% (50/59)   Compressing objects:  86% (51/59)   Compressing objects:  88% (52/59)   Compressing objects:  89% (53/59)   Compressing objects:  91% (54/59)   Compressing objects:  93% (55/59)   Compressing objects:  94% (56/59)   Compressing objects:  96% (57/59)   Compressing objects:  98% (58/59)   Compressing objects: 100% (59/59)   Compressing objects: 100% (59/59), done.
+Writing objects:   1% (1/79)   Writing objects:   2% (2/79)   Writing objects:   3% (3/79)   Writing objects:   5% (4/79)   Writing objects:   6% (5/79)   Writing objects:   7% (6/79)   Writing objects:   8% (7/79)   Writing objects:  10% (8/79)   Writing objects:  11% (9/79)   Writing objects:  12% (10/79)   Writing objects:  13% (11/79)   Writing objects:  15% (12/79)   Writing objects:  16% (13/79)   Writing objects:  17% (14/79)   Writing objects:  18% (15/79)   Writing objects:  20% (16/79)   Writing objects:  21% (17/79)   Writing objects:  22% (18/79)   Writing objects:  24% (19/79)   Writing objects:  25% (20/79)   Writing objects:  26% (21/79)   Writing objects:  27% (22/79)   Writing objects:  29% (23/79)   Writing objects:  30% (24/79)   Writing objects:  31% (25/79)   Writing objects:  32% (26/79)   Writing objects:  34% (27/79)   Writing objects:  35% (28/79)   Writing objects:  36% (29/79)   Writing objects:  37% (30/79)   Writing objects:  39% (31/79)   Writing objects:  40% (32/79)   Writing objects:  41% (33/79)   Writing objects:  43% (34/79)   Writing objects:  44% (35/79)   Writing objects:  45% (36/79)   Writing objects:  46% (37/79)   Writing objects:  48% (38/79)   Writing objects:  49% (39/79)   Writing objects:  50% (40/79)   Writing objects:  51% (41/79)   Writing objects:  53% (42/79)   Writing objects:  54% (43/79)   Writing objects:  55% (44/79)   Writing objects:  56% (45/79)   Writing objects:  58% (46/79)   Writing objects:  59% (47/79)   Writing objects:  60% (48/79)   Writing objects:  62% (49/79)   Writing objects:  63% (50/79)   Writing objects:  64% (51/79)   Writing objects:  65% (52/79)   Writing objects:  67% (53/79)   Writing objects:  68% (54/79)   Writing objects:  69% (55/79)   Writing objects:  70% (56/79)   Writing objects:  72% (57/79)   Writing objects:  73% (58/79)   Writing objects:  74% (59/79)   Writing objects:  75% (60/79)   Writing objects:  77% (61/79)   Writing objects:  78% (62/79)   Writing objects:  82% (65/79)   Writing objects:  83% (66/79)   Writing objects:  84% (67/79)   Writing objects:  86% (68/79)   Writing objects:  87% (69/79)   Writing objects:  88% (70/79)   Writing objects:  89% (71/79)   Writing objects:  91% (72/79)   Writing objects:  92% (73/79)   Writing objects:  93% (74/79)   Writing objects:  94% (75/79)   Writing objects:  96% (76/79)   Writing objects:  97% (77/79)   Writing objects:  98% (78/79)   Writing objects: 100% (79/79)   Writing objects: 100% (79/79), 11.68 KiB | 105.00 KiB/s, done.
+Total 79 (delta 25), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/25)   [Kremote: Resolving deltas:   8% (2/25)   [Kremote: Resolving deltas:  12% (3/25)   [Kremote: Resolving deltas:  16% (4/25)   [Kremote: Resolving deltas:  20% (5/25)   [Kremote: Resolving deltas:  24% (6/25)   [Kremote: Resolving deltas:  28% (7/25)   [Kremote: Resolving deltas:  32% (8/25)   [Kremote: Resolving deltas:  48% (12/25)   [Kremote: Resolving deltas:  52% (13/25)   [Kremote: Resolving deltas:  56% (14/25)   [Kremote: Resolving deltas:  60% (15/25)   [Kremote: Resolving deltas:  64% (16/25)   [Kremote: Resolving deltas:  80% (20/25)   [Kremote: Resolving deltas:  84% (21/25)   [Kremote: Resolving deltas:  88% (22/25)   [Kremote: Resolving deltas:  92% (23/25)   [Kremote: Resolving deltas:  96% (24/25)   [Kremote: Resolving deltas: 100% (25/25)   [Kremote: Resolving deltas: 100% (25/25), completed with 17 local objects.[K
+To github.com:BruceBAWest/blogdown-demo.git
+   3601cab..1cb90fc  master -> master
+]0;~/sites/blogdown-demo/blogdown-demo[38;5;203mbrucebawest[38;05;38m (master *)[0;34m blogdown-demo
+$ [0m]0;~/sites/blogdown-demo/blogdown-demo[?1034h[38;5;203mbrucebawest[38;05;38m (master *)[0;34m blogdown-demo
+git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/C9C25CB/console06/A0E6C569[m
+	[31mmodified:   .Rproj.user/C9C25CB/console06/INDEX001[m
+	[31mmodified:   .Rproj.user/C9C25CB/sources/prop/15F2F547[m
+	[31mmodified:   .Rproj.user/C9C25CB/sources/prop/A04342[m
+	[31mdeleted:    .Rproj.user/C9C25CB/sources/s-32044B80/16E7A708-contents[m
+	[31mdeleted:    .Rproj.user/C9C25CB/sources/s-32044B80/2BCF6EC2-contents[m
+	[31mdeleted:    .Rproj.user/C9C25CB/sources/s-32044B80/47F605B6-contents[m
+	[31mdeleted:    .Rproj.user/C9C25CB/sources/s-32044B80/6054142C-contents[m
+	[31mdeleted:    .Rproj.user/C9C25CB/sources/s-32044B80/8D8774FD-contents[m
+	[31mdeleted:    .Rproj.user/C9C25CB/sources/s-32044B80/960F4958[m
+	[31mdeleted:    .Rproj.user/C9C25CB/sources/s-32044B80/960F4958-contents[m
+	[31mdeleted:    .Rproj.user/C9C25CB/sources/s-32044B80/AA2AC17C[m
+	[31mdeleted:    .Rproj.user/C9C25CB/sources/s-32044B80/AA2AC17C-contents[m
+	[31mdeleted:    .Rproj.user/C9C25CB/sources/s-32044B80/B1C37BC0-contents[m
+	[31mdeleted:    .Rproj.user/C9C25CB/sources/s-32044B80/D4B1FF52[m
+	[31mdeleted:    .Rproj.user/C9C25CB/sources/s-32044B80/D4B1FF52-contents[m
+	[31mdeleted:    .Rproj.user/C9C25CB/sources/s-32044B80/lock_file[m
+	[31mmodified:   blogdown-demo.Rproj[m
+	[31mmodified:   content/post/2018-06-06-my-first-test-post.Rmd[m
+	[31mmodified:   content/post/2018-06-06-my-first-test-post.html[m
+	[31mmodified:   public/2018/06/06/my-first-test-post/index.html[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.gitignore[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/sites/blogdown-demo/blogdown-demo[38;5;203mbrucebawest[38;05;38m (master *)[0;34m blogdown-demo
+$ [0mgit add .
